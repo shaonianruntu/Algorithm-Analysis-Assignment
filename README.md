@@ -1,2 +1,1 @@
-# AA-lab
-算法分析与程序设计实验
+# Algorithm Analysis course assignment of HDU
